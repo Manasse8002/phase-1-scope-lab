@@ -1,4 +1,5 @@
-// Write your solution in this file!  
+// Write your solution in this file! 
+// Scoping  
 var customerName = 'bob'
 
 console.log(customerName);
